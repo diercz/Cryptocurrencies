@@ -15,10 +15,12 @@
 
 
 
-[!webpage](three principals)
+[!webpage](https://github.com/diercz/Cryptocurrencies/blob/main/Images/Three%20Principals.png)
 
-[!webpage](three principals)
+[!webpage](https://github.com/diercz/Cryptocurrencies/blob/main/Images/Elbow%20Curve.png)
 
-[!webpage](clustered_df_withclass)
+[!webpage](https://github.com/diercz/Cryptocurrencies/blob/main/Images/Clustered_DF_withClass.png)
 
-[!webpage](3D PCA chart)
+[!webpage](https://github.com/diercz/Cryptocurrencies/blob/main/Images/3D_PCA%20chart.png)
+
+[!webpage](https://github.com/diercz/Cryptocurrencies/blob/main/Images/Scatter_Plot.png)
